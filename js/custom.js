@@ -102,8 +102,8 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/home-bg-slideshow1.png", 
-       "images/home-bg-slideshow2.png",
+       "images/home-bg-slideshow1.jpg", 
+       "images/home-bg-slideshow2.jpg",
         ],  {duration: 2000, fade: 750});
     });
   })
